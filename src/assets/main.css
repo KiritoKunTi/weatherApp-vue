@@ -7,5 +7,9 @@
 body {
   width: 100%;
   min-height: 100vh;
-  background-color: coral;
+  background-image: radial-gradient( circle farthest-corner at 1.1% 1.4%,  rgba(246,256,3,1) 0%, rgba(256,133,1,1) 89.5% );
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
